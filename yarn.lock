@@ -3331,7 +3331,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/addon-docs@npm:7.4.0":
+"@storybook/addon-docs@npm:7.4.0, @storybook/addon-docs@npm:^7.4.0":
   version: 7.4.0
   resolution: "@storybook/addon-docs@npm:7.4.0"
   dependencies:
@@ -9792,6 +9792,7 @@ __metadata:
   dependencies:
     "@mdx-js/react": ^2.3.0
     "@storybook/addon-a11y": 7.4.0
+    "@storybook/addon-docs": ^7.4.0
     "@storybook/addon-essentials": 7.4.0
     "@storybook/addon-interactions": 7.4.0
     "@storybook/addon-links": 7.4.0
